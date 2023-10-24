@@ -59,7 +59,7 @@ body, ul, li, p, a, label, input, div {
 .text-muted { color: #524161 !important;}
 .text-success { color: #76737d !important;}
 .text-light { color: #cfd6e1 !important;}
-.text-dark { color: #6424d3 !important;}
+.text-dark { color: #301e4d !important;}
 .bg-dark { background-color: #212934 !important;}
 .bg-light { background-color: #e9eef5 !important;}
 .bg-black { background-color: #1d242d !important;}
@@ -109,6 +109,7 @@ body, ul, li, p, a, label, input, div {
 #carousel-related-product .slick-dots li button:before {
   font-size: 15px;
   margin-top: 20px;
+
 }
 /* Brand */
 .brand-img {
